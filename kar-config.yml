@@ -1,0 +1,17 @@
+debug: true
+adminEndpoint: "http://localhost:8001"
+service:
+  name: dasda
+  host: test-service12
+  port: 90
+routes: 
+  - name: test
+    paths: 
+      - /test
+    methods: 
+      - POST
+  - name: testing
+    paths: 
+      - /test
+    methods: 
+      - GET
