@@ -1,4 +1,4 @@
-module gitlab.liquidstudio.nl/deeplens/kong-auto-registration
+module github.com/timoheijne/kong-auto-register
 
 go 1.13
 
