@@ -3,8 +3,8 @@ package kar
 import (
 	"io/ioutil"
 
-	config "gitlab.liquidstudio.nl/deeplens/kong-auto-registration/config"
-	"gitlab.liquidstudio.nl/deeplens/kong-auto-registration/kong"
+	config "github.com/timoheijne/kong-auto-register/config"
+	"github.com/timoheijne/kong-auto-register/kong"
 	"gopkg.in/yaml.v2"
 )
 

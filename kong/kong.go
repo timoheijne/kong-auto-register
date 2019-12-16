@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"gitlab.liquidstudio.nl/deeplens/kong-auto-registration/config"
+	"github.com/timoheijne/kong-auto-register/config"
 )
 
 func checkKong() {
